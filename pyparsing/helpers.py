@@ -5,7 +5,7 @@ import re
 import sys
 import typing
 
-from . import __diag__
+from .core import __diag__
 from .core import *
 from .util import (
     _bslash,

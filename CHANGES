@@ -143,6 +143,9 @@ Version 3.3.3 - in development
   the upper bound -- and the loop still exits early (stopping at the first non-match),
   preserving the original early-exit behavior. Reported in issue #332.
 
+- Import `__diag__` from `core` in `helpers.py`. PR submitted by Harmen Stoppels
+  et AI.
+
 
 Version 3.3.2 - January, 2026
 -----------------------------
